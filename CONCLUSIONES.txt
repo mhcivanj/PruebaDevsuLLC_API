@@ -1,0 +1,4 @@
+En este ejercicion seleccione Karate aunque nunca lo habia utilizado.
+El Api de Actualizar usuario no estaba funcional
+SI no hubiera fallado el Sitio de las Apis creo con seguridad que hubiera terminado la funcionalidad completa que me solicitaron paro el tiempo de la prueba finalizo y no me dio chance de terminarlo por el motivo de lapagina caida.
+yo informe el caso por WhatsApp
